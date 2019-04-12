@@ -1,0 +1,1 @@
+FROM kube-controller-manager
